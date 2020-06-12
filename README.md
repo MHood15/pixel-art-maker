@@ -25,6 +25,8 @@ Here's a development workflow that we recommend you use.
 
 **TIP:** Check out [this handy tool](http://www.colors.commutercreative.com/grid/) to see a list of all the named colors in CSS.
 
+
+
 ### Bonus 1
 
 Improve the mouse so it behaves like a real paintbrush. In other words, allow the user to paint by clicking and dragging across the canvas. For this, you'll need a combination of the `mousedown`, `mouseenter`, and `mouseup` events.
